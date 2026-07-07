@@ -6,3 +6,5 @@
 09
 https://github.com/paulinaniemczak/Machine-Learning/blob/master/HW_Lab09_multi-layer-perceptron-MLP.ipynb
 
+10
+https://github.com/paulinaniemczak/Machine-Learning/blob/master/HW_Lab10-convolutional-neural-network-CNN.ipynb
