@@ -8,3 +8,6 @@ https://github.com/paulinaniemczak/Machine-Learning/blob/master/HW_Lab09_multi-l
 
 10
 https://github.com/paulinaniemczak/Machine-Learning/blob/master/HW_Lab10-convolutional-neural-network-CNN.ipynb
+
+11
+https://github.com/paulinaniemczak/Machine-Learning/blob/master/HW_Lab11-NLP-towards-attention.ipynb
